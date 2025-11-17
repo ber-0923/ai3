@@ -84,9 +84,9 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
 
      labels[2]: {
-       "texts": ["영어는 어렵다"],
-       "images": ["https://www.koreanenglish.org/images/2021/02/14/e-grammar490.jpg"],
-       "videos": ["https://www.youtube.com/watch?v=LoPh5lzmMpM"]
+       "texts": ["중국어는 재밌다"],
+       "images": ["https://mblogthumb-phinf.pstatic.net/MjAxOTA5MjVfNjgg/MDAxNTY5MzYwNDQ4MzA4.6ceQNmYSZN1s3s3iro6mXRKdIIQ3D462CY5ot5Fq2Qgg.a3UJ6xQ8d0-4sOaUxcoOP3wbnTq6lVG1OnqSOa9Znx4g.JPEG.k5808151/IMG_4077.jpg?type=w800"],
+       "videos": ["https://youtu.be/u_8jgIYX8Nk?si=jFDWsnwj1m5wc6T9"]
      },
 
 
