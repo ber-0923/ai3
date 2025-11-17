@@ -77,9 +77,9 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
 
      labels[1]: {
-       "texts": ["영어는 어렵다"],
-       "images": ["https://www.koreanenglish.org/images/2021/02/14/e-grammar490.jpg"],
-       "videos": ["https://www.youtube.com/watch?v=LoPh5lzmMpM"]
+       "texts": ["일본어는 복잡하다"],
+       "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTImwdNz6S8SA8SF6-Q9bYgHjLLLPqLh5NXqQ&s"],
+       "videos": ["https://youtu.be/ANg8ZvnFbUE?si=qdtCj58WpdBDcAIr"]
      },
 
 
