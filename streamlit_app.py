@@ -91,9 +91,9 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
 
      labels[3]: {
-       "texts": ["영어는 어렵다"],
-       "images": ["https://www.koreanenglish.org/images/2021/02/14/e-grammar490.jpg"],
-       "videos": ["https://www.youtube.com/watch?v=LoPh5lzmMpM"]
+       "texts": ["한국어는 쉽다"],
+       "images": ["https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2THIKQI2TMY7S5UHHLRCISRLEQ.jpg"],
+       "videos": ["https://youtu.be/L3f3-pI9n6g?si=8P3Ncoue9bpvYfOh"]
      },
 }
 
